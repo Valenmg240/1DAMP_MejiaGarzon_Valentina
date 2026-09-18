@@ -36,13 +36,9 @@ Se trata de un conjunto de instrucciones escritas en lenguaje de programación q
 
 [Etapas del software](https://www.microsoft.com/es-es/power-platform/topics/phases-of-the-software-development-lifecycle)
 
-[Etapas del software](https://www.microsoft.com/es-es/power-platform/topics/phases-of-the-software-development-lifecycle)
-
 
 ### Enlace del repositorio: 
 
 [Repositorio del proyecto](https://github.com/Valenmg240/1DAMP\_MejiaGarzon\_Valentina.git)
 
-### Enlace del repositorio: 
-[Repositorio del proyecto](https://github.com/Valenmg240/1DAMP_MejiaGarzon_Valentina.git)
 
