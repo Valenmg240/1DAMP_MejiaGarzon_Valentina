@@ -67,5 +67,4 @@ Se trata de un conjunto de instrucciones escritas en lenguaje de programación q
 =======
 ### Enlace del repositorio: 
 [Repositorio del proyecto](https://github.com/Valenmg240/1DAMP_MejiaGarzon_Valentina.git)
->>>>>>> 6b61a7aa6abaa5c347589e8ec6578f3de200ccab
 
