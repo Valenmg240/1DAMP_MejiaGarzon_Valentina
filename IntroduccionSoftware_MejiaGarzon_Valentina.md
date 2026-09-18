@@ -18,8 +18,13 @@ Se trata de un conjunto de instrucciones escritas en lenguaje de programación q
 
 
 
+<<<<<<< HEAD
 * El **código fuente** es un lenguaje de alto nivel escrito por un programador y se caracteriza por su facilidad para ser entendido por otras personas.
 * El **código objeto** no es nada más que el resultado de la compilación del código fuente, está en lenguaje de máquina, es decir, en lenguaje binario (ceros y unos) y no se puede ejecutar de forma directa.
+=======
+* **código fuente** es un lenguaje de alto nivel escrito por un programador y se caracteriza por su facilidad para ser entendido por otras personas.
+* **código objeto** no es nada más que el resultado de la compilación del código fuente, está en lenguaje de máquina, es decir, en lenguaje binario (ceros y unos) y no se puede ejecutar de forma directa.
+>>>>>>> 6b61a7aa6abaa5c347589e8ec6578f3de200ccab
 * Para que el código objeto pueda ser ejecutado debe pasar por un proceso llamado enlazado, el resultado de ese enlazado es a lo que se le conoce como el **código ejecutable**.
 
 
@@ -48,7 +53,9 @@ Se trata de un conjunto de instrucciones escritas en lenguaje de programación q
 
 [Código fuente, código objeto y código ejecutable](https://www.studocu.com/es/document/instituto-de-educacion-secundaria-poligono-sur/matematicas-ii/13codigos-fuente-objeto-y-ejecutable/104853597?sid=4d4439c0-6810-4c34-be66-6e9da15835961789747190)
 
+[Etapas del software](https://www.microsoft.com/es-es/power-platform/topics/phases-of-the-software-development-lifecycle)
 
+<<<<<<< HEAD
 
 [Etapas del software](https://www.microsoft.com/es-es/power-platform/topics/phases-of-the-software-development-lifecycle)
 
@@ -57,4 +64,8 @@ Se trata de un conjunto de instrucciones escritas en lenguaje de programación q
 ### Enlace del repositorio: 
 
 [Repositorio del proyecto](https://github.com/Valenmg240/1DAMP\_MejiaGarzon\_Valentina.git)
+=======
+### Enlace del repositorio: 
+[Repositorio del proyecto](https://github.com/Valenmg240/1DAMP_MejiaGarzon_Valentina.git)
+>>>>>>> 6b61a7aa6abaa5c347589e8ec6578f3de200ccab
 
