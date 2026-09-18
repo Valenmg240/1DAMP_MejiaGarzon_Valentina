@@ -18,8 +18,8 @@ Se trata de un conjunto de instrucciones escritas en lenguaje de programación q
 
 
 
-* \*\*código fuente\*\* es un lenguaje de alto nivel escrito por un programador y se caracteriza por su facilidad para ser entendido por otras personas.
-* \*\*código objeto\*\* no es nada más que el resultado de la compilación del código fuente, está en lenguaje de máquina, es decir, en lenguaje binario (ceros y unos) y no se puede ejecutar de forma directa.
+* El \*\*código fuente\*\* es un lenguaje de alto nivel escrito por un programador y se caracteriza por su facilidad para ser entendido por otras personas.
+* El \*\*código objeto\*\* no es nada más que el resultado de la compilación del código fuente, está en lenguaje de máquina, es decir, en lenguaje binario (ceros y unos) y no se puede ejecutar de forma directa.
 * Para que el código objeto pueda ser ejecutado debe pasar por un proceso llamado enlazado, el resultado de ese enlazado es a lo que se le conoce como el \*\*código ejecutable\*\*.
 
 
